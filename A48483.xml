@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable the chosen and representative body of England assembled in Parliament. The humble petition of L.C. Iohn Lilburne a free man of England</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48483</idno>
+            <idno type="STC">Wing L2187A</idno>
+            <idno type="STC">ESTC R216534</idno>
+            <idno type="EEBO-CITATION">99828261</idno>
+            <idno type="PROQUEST">99828261</idno>
+            <idno type="VID">32688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32688)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1912:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable the chosen and representative body of England assembled in Parliament. The humble petition of L.C. Iohn Lilburne a free man of England</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>pp. 9-12   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text begins on p. 9.</note>
+                  <note>Fragment of a larger work? P. 9 has signature A1.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed and dated on p. 11: Newgate, Iune 16.1646. John Lilburne.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="9" facs="tcp:32688:1" rendition="simple:additions"/>
+            <head>To the right Honourable the choſen and Repreſentative body of <hi>England</hi> Aſſembled in Parliament.</head>
+            <head>The humble Petition of L. C. IOHN LILBURNE A Free man of <hi>England.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat your petitioner hath and doth look upon this Honourable Houſe, as the choſen and betruſted Commiſſioners of all the Commons of <hi>England,</hi> in whom alone (by right) reſides the formall and legall ſupreame power of <hi>England,</hi> and unto whom all the Commons of <hi>England</hi> have given ſo much of their Power, as to inable you alone, to doe all things whatſoever for their weale, ſafety peace and proſperity, the end of all Government, as is moſt excellently, by your Honourable declaration of the 17. of April laſt declared.</p>
+            <p>The knowledge and underſtanding of which, hath made your petitioner as a Com<g ref="char:EOLhyphen"/>moner (in his Countries ſtraits and neceſſities) to take up armes as his duty, to fight againſt the King (the ſervant of the Common wealth) and all the forces rai<g ref="char:EOLhyphen"/>ſed by his Authority (who ſought to deſtroy the end of Government, the ſafety and weale of the people) and to be faithfull in your ſaid ſervice, in the midſt of many deaths; contemning and ſlighting, the large proffers of the Kings Honours and preferments, ſent unto him by foure Lords, when he was a priſoner for you at <hi>Oxford,</hi> for which he was imediatly laid in Irons night and day, lookt up cloſe in a room, a Centinell ſet at his dore, that ſo he might not ſpeak with any whoſoever, forced to lye on the floore, kept without one farthing of allowance although he car<g ref="char:EOLhyphen"/>ried not one penny with him to the priſon</p>
+            <p>And within a few daies after was (for his continued reſolution) arraigned (in Irons) as a Traitor for his life before Judge <hi>Heath,</hi> before whom he pleaded to his indictment, profeſſing unto him at the open barre (when he preſſed your petitioner to ſave himſelfe) that he your ſupplyant was not ſeduced by any to take up armes, but did it out of a principle of duty to himſelfe, his country and the Paliament, and that he was reſolved to ſpend his blood in the defence of his owne and his Coun<g ref="char:EOLhyphen"/>tries liberties; alſo your petitioner upon the ſame grounds, hath often been in the field ſince, and done good ſervices, and hath continued faithfull in all his ingagements, and is reſolved (by the ſtrength of God) ſo to doe to the death.</p>
+            <p>Now for aſmuch as the liberties and freedomes contained in the 28. &amp; 29. chap. of the great Charter of <hi>England,</hi> are the beſt legall inheritance that your petitioner hath, and for the preſervation of which, yee have ſo often ſworne to ſpend your lives and fortunes, and injoyned the people that truſted you to doe the ſame, and for the maintaining of which, your petitioner hath run the hazard of ſo many deaths and miſeries as he hath done, amongſt which liberties and priviledges this is not one of
+<pb n="10" facs="tcp:32688:2"/>the leaſt (as your petitioner humbly conceives) that all Commoners whatſoever in criminall cauſes ſhall be tried by their equals or fellow Commoners; nevertheles the Houſe of Lords (commonly ſo called) ſummoned your petitioner to their Barre to anſwer a criminall charge there, contrary to the tenour of the great Charter ſo often confirmed, and although your petitioner told their Meſſenger, and after<g ref="char:EOLhyphen"/>wards ſome of themſelves, that by <hi>Magna Charta</hi> they had nothing to doe with your petitioner in ſuch a caſe, and that if he were called, he muſt and would plead this a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Barre, coſt it him what it would, and alſo intreated one of themſelves, to ac<g ref="char:EOLhyphen"/>quaint the reſt of his fellow Lords, that he muſt and would proteſt againſt them, and appeale to his competent proper and legall tryers and judges your Honours,</p>
+            <p>Yet notwithſtanding they forced your Petitioner to their Bar, and would have com<g ref="char:EOLhyphen"/>pel'd him, contrary to Law, reaſon, and Conſcience, and to the fundamentall liberty of all the free People of England, (ſo adjudged in his own caſe of the Star-cham<g ref="char:EOLhyphen"/>ber &amp;c. by your honours and themſelves) to anſwere to Interrogatories concerning himſelfe, without ſhewing him any formall and legall charge in writing, although he earneſtly deſired to ſee it, if they had any, which was refuſed, and your Petitioner preſſed again and again with much vehemency, by their Speaker, to anſwer, verball queſtions, which forced your Petitioner to deliver at their open Bar his Proteſtation, in writing under his hand and ſeale, as alſo his appeal to your Honours, his competent, proper and legall Tryers and Iudges; a true Coppy of which is hereunto annexed, for which alone, they committed your Petitioner to Newgate priſon, (as appeares by the Coppy of their commitment hereunto annexed) all which your Petitioner humbly con<g ref="char:EOLhyphen"/>ceives, tends to the disfranchizing him of his juſt liberties and freedomes, (and ſo to the making him a ſlave) and to the violation of their own Oathes and Covenants, and to the utter ſubverſion, and alteration of the fundamentall Lawes and government of this Kingdome, for the preſervation of which, ſo much blood and treaſure hath alrea<g ref="char:EOLhyphen"/>dy been ſpent.</p>
+            <p>Your Petitioner therefore, as a free-man of England, (who to his knowledge ne<g ref="char:EOLhyphen"/>ver did any act that deſerveth the forfeiting of his birth-right) humbly appealleth to your honourable Bar and Juſtice, as his proper, competent, legall tryers and Iudges, and humbly prayeth.</p>
+            <p>
+               <hi>For aſ much as he is a free Commoner of</hi> England, <hi>and ought not to be proceeded a<g ref="char:EOLhyphen"/>gainſt, nor his liberties and freedomes to be taken from him, in any arbitrary or extra<g ref="char:EOLhyphen"/>judiciall way. And for that their Lordſhips have no power, nor juriſdiction,</hi> accor<g ref="char:EOLhyphen"/>ding to the Law and conſtitutions of this Kingdome, <hi>to try and adjudge any free Commoner thereof, for any criminall cauſes whatſoever, concerning life, limb, liberty, or eſtate; And for that your Petitioner is impriſoned, contrary to the form and te<g ref="char:EOLhyphen"/>nour of the great</hi> Charter <hi>of</hi> England, <hi>and therefore altogether illegall, and meerly arbitrary; That your Honours will be pleaſed, according to your unparaleld Decla<g ref="char:EOLhyphen"/>ration of the</hi> 17th <hi>of April laſt, whereby is ſet forth, that you will not exerciſe, nor ſuffer to be exerciſed by any other, any arbitrary power, but that you will provide for the ſafety and weal of the People, (the primitive end of all government) according to the great truſt repoſed in you, and committed to you, by your</hi> Impowrers, the Com<g ref="char:EOLhyphen"/>mons of England, <hi>you will take your Petitioner into your protection, and not ſuffer him any longer to be kept in priſon, and ſpoyled of his Franchizes and liberties, but
+<pb n="11" facs="tcp:32688:2"/>according to the ſaid Charter of liberties, your</hi> Proteſtations, Oaths and Declarations, the lawes and Statutes of this Kingdome, <hi>he may freely be inlarged out of priſon, and reſtored to his juſt libertie, with iuſt reparations for his damages, for the great wrongs done unto him, by his reproachfull impriſonment in the infamous priſon of Newgate, and the vindication and freeing of the whole Kingdome (according to their long and iuſt expectation) from the like uſurpation, and incroachments of their iuſt rights and privledges, and your Petitioner ſhall ever be ready to ſpend his life for you, and his Countries iuſt liberties, and in obedience to all iuſt authority, to anſwer any</hi> Charge, <hi>when the ſame ſhall be in a legall way brought againſt him.</hi>
+            </p>
+            <p>
+               <hi>And your Petitioner (as in duty bound) ſhall ever pray to God, to enable you to go on, to finiſh, and perfect the great things expected from you, according to the truſt repoſed in you.</hi>
+            </p>
+            <closer>
+               <dateline>Newgate, <date>
+                     <hi>Iune</hi> 16. 1646.</date>
+               </dateline>
+               <signed>JOHN LILBVRNE.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>A Poſtſcript, containing a generall Propoſition.</head>
+            <p>GOD, the abſolute Soveraign Lord and King, of all things in heaven and earth, the originall fountain, and cauſe of all cauſes, who is circumſcribed, governed, and limited by no rules, but doth all things meerly and onely by his ſoveraign will, and unlimited good pleaſure, who made the world, and all things therein, for his own glory, and who by his own will and pleaſure, gave man (his meer creature) the ſoveraignty (undor himſelfe) over all the reſt of his Creatures, <hi>Gen.</hi> 1.26.28.29. and indued him with a rationall ſoule, or underſtanding, and thereby created him after his own image, Gen. 1.26.27. and 9.6. the firſt of which was <hi>Adam,</hi> a male, or man, made out of the duſt or clay, out of whoſe ſide was taken a Rib, which by the ſoveraign and abſolute mighty creating power of God, was made a female, or Woman cal'd <hi>Eve,</hi> which two are the earthly, original fountain, as begetters and bringers forth of all and every particular and individuall man and woman, that ever breathed in the world ſince, who are, and were by nature all equall and alike in power, digniy, authority, and majeſty, none of them having (by nature) any authority domi<g ref="char:EOLhyphen"/>nion or majeſteriall power, one over or above another, neither have they, or can they exerciſe any, but meerely by inſtitution, or donation, that is to ſav, by mutuall agreement or conſent, given, derived, or aſſumed, by mutuall conſent and agreement, for the good benefit and comfort each of other, and not for the miſchiefe, hurt, or damage of any, it being unnaturall, irrationall, ſinfull, wicked and unjuſt, for any man, or men whatſoever, to part with ſo much of their power, as ſhall enable any of their Parliament men, Commiſſioners, Truſtees, deputies, Viceroys, Miniſters, Offi<g ref="char:EOLhyphen"/>cers or ſervants, to deſtroy and undoe them therewith: And unnaturall, irrationall, ſinfull, wicked, unjuſt, diveliſh, and tyranicall it is, for any man whatſoever, ſpirituall or temporall, Cleargy-man or Lay-man, to appropriate and aſſume unto himſelfe, a power, authority and jurisdiction, to rule, govern, or raign over any ſort of men in the
+<pb n="12" facs="tcp:32688:3" rendition="simple:additions"/>world, without their free conſent, and whoſoever doth it, whether Cleargy-man, of a<g ref="char:EOLhyphen"/>ny other whatſoever, doe thereby as much as in them lyes, endeavour to appropriate &amp; aſſume unto themſelves the Office and ſoveraignty of God, (who alone doth, and is to rule by his will and pleaſure) and to be like their Creator, which was the ſinne of the Devils, who not being content with their firſt ſtation, but would be like God, for which ſin they were thrown down into hell, reſerved in everlaſting chaines, under darknes, unto the judgement of the great day. <hi>Iude ver.</hi> 6. And <hi>Adams</hi> ſin it was, which brought the curſe upon him and all his poſterity, that he was not content with the ſtation and condition that God created him in, but did aſpire unto a better, and more excellent, (namely to be like his Creator) which proved his ruin, yea, and indeed had been the everlaſting ruin and deſtruction of him and all his, had not God been the more mercifull unto him in the promiſed <hi>Meſſiah. Gen. Chap.</hi> 3.</p>
+            <closer>
+               <signed>From my Cock-loſt in the Preſſe yard <hi>Newgate.</hi> per me Iohn Lilburne.</signed> 
+               <dateline>
+                  <date>Iune 19. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <p>Curteous Countrymen to fill up this vacant place I ſhall deſire thee to reade the words of the Declaration of the Houſe of Commons, publiſhed 27. <hi>Ianu.</hi> 1641. which you ſhall find in the 41. pag. of the booke of Declarations thus.</p>
+            <p>
+               <hi>And this Houſe doth further declare, That all ſuch perſons as have given any Councell, or endeavoured to ſet or maintain diviſion or diſl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, between the King and Parliament, or have liſted their names, or otherwiſe entred into any combination or agreement, to be ayding, or aſſiſting, to any ſuch counſell or endeavour, or have perſwaded any other ſo to doe, or that ſhall do any the things above mentioned; And ſhall not forthwith diſcover the ſame to either Houſe of Parliament: or the Speaker of either of the ſaid Houſes reſpectively, and diſclaime it, are declared Publique Enemies of the State and Peace of this Kingdome, and ſhall be inquired of, and proceeded againſt accordingly.</hi>
+            </p>
+            <p>Secondly the three Votes of both Houſes <hi>May</hi> 20. 1642. which you ſhall find in the book of Declarations pa. 259.</p>
+            <list>
+               <item>
+                  <label>Reſolved upon the Queſtion</label>
+                  <p n="1">1. <hi>That it appeares, That the King (ſeduced by wicked Counſell) Intends to make Warre againſt the Parliament, who (in all their conſultations and actions) have propo<g ref="char:EOLhyphen"/>ſed no other end unto themſelves, but the care of His Kingdoms, and the performance of all duty and loyalty to His Perſon.</hi>
+                  </p>
+               </item>
+               <item>
+                  <label>Reſolved upon the Queſtion.</label>
+                  <p n="2">2. <hi>That whenſoever the King makes Warre upon the Parliament, it is a breach of the truſt repoſed in Him by His people, contrary to His Oath, and tending to the diſſolution of this Government.</hi>
+                  </p>
+               </item>
+               <item>
+                  <label>Reſolved upon the Queſtion.</label>
+                  <p n="3">3. <hi>That Whoſoever ſhall ſerve, or aſſiſt Him in ſuch Warres, are Traitors, by the Fun<g ref="char:EOLhyphen"/>damentall Lawes of this Kingdome, and have been ſo adjudged by two Acts of Parlia<g ref="char:EOLhyphen"/>ment, and ought to ſuffer as Traitors.</hi> 11. Rich. 2.1. Hen. 4.</p>
+               </item>
+            </list>
+            <closer>
+               <signed>Joh Browne Cler. Parliament.</signed>
+            </closer>
+         </div>
+         <div type="addendum">
+            <p n="3">3. The Declaration of both Houſes in pa. 576. in theſe words, Whereas the King &amp;c.</p>
+            <p n="4">4. The words in their Declaration for the vindication of <hi>Ferdinando</hi> Lord <hi>Fairfax.</hi> as you ſhall find pa. 914. in theſe words. The ſaid Lords &amp;c.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32688:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
